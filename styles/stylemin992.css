@@ -41,7 +41,7 @@
     
     .topnav{
       overflow:visible;
-      font-family: 'Segoe UI regular';
+      font-family: 'Segoe UI regular', Tahoma, Geneva, Verdana, sans-serif;
       font-size: 15px;
       margin-top: 30px;
     }
@@ -106,14 +106,14 @@
     }
     
     .info h1{
-     font-family: 'Segoe UI semibold';
+     font-family: 'Segoe UI semibold', Tahoma, Geneva, Verdana, sans-serif;
      font-size: 53px;
      align-items: center;
      margin-top: 0px;
     }
     
     .info p{
-      font-family: 'Segoe UI light';
+      font-family: 'Segoe UI light', Tahoma, Geneva, Verdana, sans-serif;
       font-size: 24px;
       color: black;
       line-height: 29px;
@@ -139,7 +139,7 @@
       background-color: #ffffff00;
       height: 48px;
       margin-left: 36px;
-      font-family: 'Segoe UI semibold';
+      font-family: 'Segoe UI semibold', Tahoma, Geneva, Verdana, sans-serif;
       font-size: 15px;
     }
     

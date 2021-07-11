@@ -22,7 +22,7 @@
   
     .topnav a{
   
-      font-family: 'Segoe UI regular';
+      font-family: 'Segoe UI regular', Tahoma, Geneva, Verdana, sans-serif;
       font-size: 18px;
       text-decoration: none;
       padding: 2px 10px;
@@ -95,14 +95,14 @@
   }
   
   .info h1{
-  font-family: 'Segoe UI semibold';
+  font-family: 'Segoe UI semibold', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 63px;
   align-items: center;
   margin-top: 150px;
   }
   
   .info p{
-   font-family: 'Segoe UI light';
+   font-family: 'Segoe UI light', Tahoma, Geneva, Verdana, sans-serif;
    font-size: 31px;
    color: rgb(37, 4, 4);
    line-height: 47px;
@@ -126,7 +126,7 @@
    background-color: #ffffff00;
    width: 165.34px;
    height: 47.01px;
-   font-family: 'Segoe UI semibold';
+   font-family: 'Segoe UI semibold', Tahoma, Geneva, Verdana, sans-serif;
    font-size: 15px;
    margin-left: 35px;
   }
@@ -327,8 +327,8 @@
     
     .card {
     /* Add shadows to create the "card" effect */
-    box-shadow: 0 4px 8px 0 #bbeaff;
-    transition: 0.3s;
+    /* box-shadow: 0 4px 8px 0 #bbeaff;
+    transition: 0.3s; */
     width: 70%;
     height: 300px;
     border-radius: 30px;
