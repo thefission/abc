@@ -3,7 +3,20 @@
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) and (max-width: 768px){
    
+  @font-face {
+    font-family: Segoe UI semibold;
+    src: url(/fonts/seguisb.ttf);
+  }
   
+  @font-face {
+    font-family: Segoe UI regular;
+    src: url(/fonts/segoeui.ttf);
+  }
+  
+  @font-face {
+    font-family: Segoe UI light;
+    src: url(/fonts/segoeuil.ttf);
+  }
  
     /*************Hero page min-width: 600px)************************/
   

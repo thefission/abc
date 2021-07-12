@@ -2,7 +2,21 @@
   /* Medium devices (landscape tablets, 768px and up) */
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     
-  
+    @font-face {
+      font-family: Segoe UI semibold;
+      src: url(/fonts/seguisb.ttf);
+    }
+    
+    @font-face {
+      font-family: Segoe UI regular;
+      src: url(/fonts/segoeui.ttf);
+    }
+    
+    @font-face {
+      font-family: Segoe UI light;
+      src: url(/fonts/segoeuil.ttf);
+    }
+
     /*************Hero page min-width: 768px)************************/
   
       #main-page{

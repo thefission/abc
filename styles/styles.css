@@ -3,6 +3,22 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+@font-face {
+  font-family: Segoe UI semibold;
+  src: url(/fonts/seguisb.ttf);
+}
+
+@font-face {
+  font-family: Segoe UI regular;
+  src: url(/fonts/segoeui.ttf);
+}
+
+@font-face {
+  font-family: Segoe UI light;
+  src: url(/fonts/segoeuil.ttf);
+}
+
 body{
   font-family: sans-serif;
 }

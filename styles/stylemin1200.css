@@ -1,7 +1,22 @@
 
   /* Extra large devices (large laptops and desktops, 1200px and up) */
   @media only screen and (min-width: 1200px)and (max-width: 1919px){
-  
+    
+    @font-face {
+      font-family: Segoe UI semibold;
+      src: url(/fonts/seguisb.ttf);
+    }
+    
+    @font-face {
+      font-family: Segoe UI regular;
+      src: url(/fonts/segoeui.ttf);
+    }
+    
+    @font-face {
+      font-family: Segoe UI light;
+      src: url(/fonts/segoeuil.ttf);
+    }
+    
     *{
       margin: 0;
       padding: 0;

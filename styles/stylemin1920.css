@@ -1,5 +1,22 @@
 @media only screen and (min-width: 1919px) and (max-width: 3000px){
-*{
+
+  @font-face {
+    font-family: Segoe UI semibold;
+    src: url(/fonts/seguisb.ttf);
+  }
+  
+  @font-face {
+    font-family: Segoe UI regular;
+    src: url(/fonts/segoeui.ttf);
+  }
+  
+  @font-face {
+    font-family: Segoe UI light;
+    src: url(/fonts/segoeuil.ttf);
+  }
+
+
+  *{
     box-sizing: border-box;
     margin: 0px;
     padding: 0px;

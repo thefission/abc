@@ -2,6 +2,22 @@
 
   /* Large devices (laptops/desktops, 992px and up) */
   @media only screen and (min-width: 992px)and (max-width: 1200px){
+    
+    @font-face {
+      font-family: Segoe UI semibold;
+      src: url(/fonts/seguisb.ttf);
+    }
+    
+    @font-face {
+      font-family: Segoe UI regular;
+      src: url(/fonts/segoeui.ttf);
+    }
+    
+    @font-face {
+      font-family: Segoe UI light;
+      src: url(/fonts/segoeuil.ttf);
+    }
+
     html{
       scroll-behavior: smooth;
     }
